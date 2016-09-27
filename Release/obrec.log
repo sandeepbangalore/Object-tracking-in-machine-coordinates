@@ -1,0 +1,19 @@
+﻿La génération a démarré 11/06/2014 14:36:53.
+     1>Projet "C:\Documents and Settings\s.bangalore-venkates\mes documents\visual studio 2010\Projects\obrec\obrec\obrec.vcxproj" sur le nœud 2 (build cible(s)).
+     1>PrepareForBuild:
+         Création du répertoire "C:\Documents and Settings\s.bangalore-venkates\mes documents\visual studio 2010\Projects\obrec\Release\".
+       InitializeBuildStatus:
+         Création de "Release\obrec.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\obrec.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\obrec.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\Downloads\BRIEF_demo-0.5 (1)\BRIEF_demo-0.5\BRIEF.cpp" "..\..\..\..\Downloads\BRIEF_demo-0.5 (1)\BRIEF_demo-0.5\main.cpp"
+         BRIEF.cpp
+     1>c:\documents and settings\s.bangalore-venkates\mes documents\downloads\brief_demo-0.5 (1)\brief_demo-0.5\BRIEF.h(31): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv\cv.h' : No such file or directory
+         main.cpp
+     1>c:\documents and settings\s.bangalore-venkates\mes documents\downloads\brief_demo-0.5 (1)\brief_demo-0.5\BRIEF.h(31): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv\cv.h' : No such file or directory
+     1>Génération du projet "C:\Documents and Settings\s.bangalore-venkates\mes documents\visual studio 2010\Projects\obrec\obrec\obrec.vcxproj" terminée (build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.87
